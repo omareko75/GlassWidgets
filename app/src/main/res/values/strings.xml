@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Glass Widgets</string>
+    <string name="widget_clock_name">ساعة زجاجية</string>
+    <string name="widget_clock_desc">ساعة وتاريخ بتصميم زجاجي شفاف</string>
+    <string name="main_title">Glass Widgets</string>
+    <string name="main_body">اضغط الزرار تحت عشان تضيف الساعة الزجاجية على الشاشة الرئيسية، أو اضغط مطولاً على أي مكان فاضي في الشاشة واختار ويدجتس.</string>
+    <string name="main_add_button">أضف ويدجت الساعة</string>
+    <string name="main_pin_unsupported">الموبايل ده مش بيدعم الإضافة المباشرة، أضفها من قائمة الويدجتس</string>
+</resources>
